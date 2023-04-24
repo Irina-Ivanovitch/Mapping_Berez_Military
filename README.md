@@ -1,6 +1,6 @@
 # Mapping_Berez_Military
 
-Tout petit mapping qui rajoute quelques containers et tentes dans la zone de Berez Military, pour rendre la zone une peu plus attractive sans la charger ...
+Tout petit mapping qui rajoute quelques containers et tentes dans la zone de Berez Military, pour rendre la zone un peu plus attractive sans la charger ...
 
 Implantation du mapping:
 
