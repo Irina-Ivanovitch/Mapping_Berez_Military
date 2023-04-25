@@ -12,7 +12,7 @@ Implantation du mapping:
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Small mapping of the Balota airstrip, the area is difficult to access by car.
+Very small mapping that adds some containers and tents in the Berez Military area, to make the area a little more attractive without overloading it...
 
 Implementation of the mapping:
 
